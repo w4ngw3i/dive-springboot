@@ -1,3 +1,5 @@
 com/wangwei/config/WebMcvConfig.class
+com/wangwei/web/servlet/support/DefaultAnnotationConfigDispatcherServletInitializer.class
 com/wangwei/config/WebMcvConfig$1.class
 com/wangwei/web/controller/HelloWorldController.class
+com/wangwei/config/DispatcherServletConfiguration.class
