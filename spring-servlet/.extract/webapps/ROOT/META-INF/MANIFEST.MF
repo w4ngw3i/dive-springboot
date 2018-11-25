@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-servlet
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wangwei
+Implementation-Vendor-Id: com.wangwei
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dive-springboot/spring-servlet
+

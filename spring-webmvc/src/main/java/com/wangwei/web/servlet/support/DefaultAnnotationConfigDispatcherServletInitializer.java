@@ -1,6 +1,6 @@
 package com.wangwei.web.servlet.support;
 
-import com.wangwei.config.DispatcherServletConfiguration;
+import com.wangwei.web.config.DispatcherServletConfiguration;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**

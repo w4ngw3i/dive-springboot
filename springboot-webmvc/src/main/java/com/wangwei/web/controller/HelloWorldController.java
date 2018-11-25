@@ -2,6 +2,7 @@ package com.wangwei.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * @Auther wangwei
@@ -10,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HelloWorldController {
     @RequestMapping("")
-    public String index(){
+    public String index(@RequestParam("test") String test){
         return "index";
     }
 }
